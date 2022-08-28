@@ -1,4 +1,5 @@
 # Circular-Queue-Library
+Static Queue library
 ## This library is one of the libraries belonging to Data Structure in particularly Circular Queue method.
 - This library contains a lot of useful and easily used functions such as:
 1. <pre>QueueInitialize(&Queue)    :</pre> This function is used at the beginning of the code to initialize the data to be able to use it and you must use it at the beginning of the code at least once
